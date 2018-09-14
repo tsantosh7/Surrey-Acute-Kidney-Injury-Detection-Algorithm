@@ -6,10 +6,7 @@ of change in a patient’s estimated glomerular filtration values. This is a cod
 alternative automated approaches for detecting AKI, i.e., novel Surrey AKI detection algorithm (SAKIDA)
 
 
-## Library of methods for detecting Acute Kidney Injury.
-
-E.g. loading data from multiple text files into memory, checking which companies have data
-and which don't, merging files, pre-tokenizing text data, performing train/test splits etc.
+## Library of methods for detecting Acute Kidney Injury using SAKIDA.
 
 ### (c) Santosh Tirunagari, 2016
 
