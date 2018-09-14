@@ -10,7 +10,6 @@ Library of methods for detecting Acute Kidney Injury.
 E.g. loading data from multiple text files into memory, checking which companies have data
 and which don't, merging files, pre-tokenizing text data, performing train/test splits etc.
 
-Dominic Searson
 
 (c) Santosh Tirunagari, 2018
 
