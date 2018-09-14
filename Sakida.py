@@ -1,5 +1,30 @@
 '''
 
+Acute kidney injury (AKI) is defined by a rapid deterioration in kidney function based on the rate
+of change in a patient’s estimated glomerular filtration values. This is a code for
+alternative automated approaches for detecting AKI, i.e., novel Surrey AKI detection algorithm (SAKIDA)
+
+
+Library of methods for detecting Acute Kidney Injury.
+
+E.g. loading data from multiple text files into memory, checking which companies have data
+and which don't, merging files, pre-tokenizing text data, performing train/test splits etc.
+
+Dominic Searson
+
+(c) Santosh Tirunagari, 2018
+
+last updated: 30/11/17 ST
+
+__author__ = 'Santosh Tirunagari'
+
+Please cite this article if you have used my code.
+
+We introduced a novel algorithm “SAKIDA” to detect AKIs from the primary care data. The
+proposed SAKIDA performs better than GPR and NHS England algorithms in the primary care
+settings with 70% accuracy. GPR and NHS England are more suitable in real-time systems e.g.,
+in secondary care settings.
+
 
 @inproceedings{tirunagari2016automatic,
    title={Automatic detection of acute kidney injury episodes from primary care data},
