@@ -8,15 +8,17 @@ alternative automated approaches for detecting AKI, i.e., novel Surrey AKI detec
 
 ## Library of methods for detecting Acute Kidney Injury using SAKIDA.
 
-### (c) Santosh Tirunagari, 2016
-
-## Please cite this article if you have used my code.
 
 We introduced a novel algorithm “SAKIDA” to detect AKIs from the primary care data. The
 proposed SAKIDA performs better than GPR and NHS England algorithms in the primary care
 settings with 70% accuracy. GPR and NHS England are more suitable in real-time systems e.g.,
 in secondary care settings.
 
+
+### (c) Santosh Tirunagari, 2016
+
+
+#### Please cite this article if you have used this code.
 
 @inproceedings{tirunagari2016automatic,
    title={Automatic detection of acute kidney injury episodes from primary care data},
